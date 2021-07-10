@@ -13,7 +13,8 @@ $ cd ~/widowx/src
   
 $ catkin_create_pkg widowx_arm_testing std_msgs roscpp arbotix_python
   
-* Paste "widowx_arm_testing.cpp" into the src folder of "widowx_arm_testing package
+* Paste "widowx_arm_testing.cpp" into the src folder of "widowx_arm_testing package. This c++ program gives +ve, -ve and zero commands to each joint in widowx- arm 
+  and then relax all the joints.
   
 # 2- Modify "CMakeList.txt" 
   
