@@ -1,6 +1,6 @@
 # Control-widowx-arm-with-ROS-package
 
-This tutorial shows how to control different joints of widowx arm using ROS package
+This tutorial shows how to control different joints of widowx arm using ROS package. I used this reference with some modifications: https://www.researchgate.net/publication/291789058_Turtlebot_2_with_a_WidowX_arm_first_steps
 
 
 # 1- Create new package
