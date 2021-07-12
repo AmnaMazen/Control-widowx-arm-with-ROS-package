@@ -2,6 +2,8 @@
 
 Author name: Amna Mazen Ali
 
+I uploded a video about step by step tutorial on Youtube: https://www.youtube.com/watch?v=32R-RxS9qWE&t=6s
+
 This tutorial shows how to control different joints of widowx arm using ROS package. I used this reference with some modifications: https://www.researchgate.net/publication/291789058_Turtlebot_2_with_a_WidowX_arm_first_steps
 
 
